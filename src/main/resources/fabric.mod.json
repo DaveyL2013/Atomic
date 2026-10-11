@@ -10,7 +10,7 @@
   "contact": {
     "homepage": "https://modrinth.com/mod/bta-atomic",
     "sources": "https://github.com/BlueMoonJune/Atomic",
-		"issues": "https://github.com/BlueMoonJune/Atomic/issues"
+    "issues": "https://github.com/BlueMoonJune/Atomic/issues"
   },
 
 	"icon": "icon.png",
